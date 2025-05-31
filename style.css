@@ -18,6 +18,10 @@
 
 .hero-section {
   position: relative;
+  background-image: url('https://kolkatamarywardsc.org/wp-content/uploads/2023/09/collage-1-scaled.jpg');
+  background-size: cover;
+  background-position: center; 
+  height: 90vh;
 }
 
 .hero-section::before {
